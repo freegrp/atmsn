@@ -1,2 +1,2 @@
 # atmsn
-ATMs Nearby
+ATMs Nearby version 1.0
