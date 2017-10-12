@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.42857;
+    color: #333333;
+    background-color: white;
+    word-break: keep-all;
+}
+.hero h1, .hero h2, .hero .h2 {
+    font-size: 60px;
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0 60px;
+}
+h3, .h3 {
+    font-size: 21px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.25;
+}
+.container-guttered, footer, header, #sticky-header-nav {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+.container-fluid, .contentpar, .container-fluid:focus, .contentpar:focus {
+    outline: none;
+}
+.container-fluid:before, .container-fluid:after {
+    content: " ";
+    display: table;
+}
